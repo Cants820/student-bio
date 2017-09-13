@@ -1,0 +1,66 @@
+    h1 {
+     text-align:center;
+     background-color: black;
+     color:white;
+    }
+    /* h2 heading tags */
+    body {
+    	background-color: #efeee7;
+      font-family: "Georgia",Times New Roman,Times,serif;
+      font-color: #333333;
+      margin: 0;
+      padding:0;
+       }
+    
+    
+    
+  /** Bonus:
+
+    * Stage, commit, and push this new file to Github.
+
+
+      }
+  */
+
+
+    h2 {
+      font-color:#eee;
+      font-size:28px;
+    }
+    .container {
+      width: 1024px;
+      margin: 0 auto;
+    }
+    
+   
+   #biobox {
+    width: 70%;
+   } 
+
+    #bio-image {
+
+      float:left;
+    
+    }
+
+    #main-bio {
+      float:left;
+      width: 250px;
+      margin: auto auto auto 30px;
+    }  
+
+    #contact-info {
+      float:left;
+      width:30%;
+      margin:0 0 0 200px;
+    }
+
+    a {
+      font-color: #d21034;
+    
+    }
+    p {
+      line-height: 2em;
+    }
+    
+
